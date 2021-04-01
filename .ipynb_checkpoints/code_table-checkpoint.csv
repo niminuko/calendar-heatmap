@@ -1,0 +1,397 @@
+,City,FAA,IATA,ICAO,Airport,Role,Enplanements,State
+1,BIRMINGHAM,BHM,BHM,KBHM,Birmingham–Shuttlesworth International Airport,P-S,1304467.0,ALABAMA
+2,DOTHAN,DHN,DHN,KDHN,Dothan Regional Airport,P-N,49411.0,ALABAMA
+3,HUNTSVILLE,HSV,HSV,KHSV,Huntsville International Airport (Carl T. Jones Field),P-S,527801.0,ALABAMA
+4,MOBILE,MOB,MOB,KMOB,Mobile Regional Airport,P-N,288209.0,ALABAMA
+5,MONTGOMERY,MGM,MGM,KMGM,Montgomery Regional Airport (Dannelly Field),P-N,173210.0,ALABAMA
+7,ANCHORAGE,LHD,,PALH,Lake Hood Seaplane Base (also see Lake Hood Airstrip),P-N,23382.0,ALASKA
+8,ANCHORAGE,MRI,MRI,PAMR,Merrill Field,P-N,19144.0,ALASKA
+9,ANCHORAGE,ANC,ANC,PANC,Ted Stevens Anchorage International Airport,P-M,2563524.0,ALASKA
+10,ANIAK,ANI,ANI,PANI,Aniak Airport,P-N,13688.0,ALASKA
+11,BETHEL,BET,BET,PABE,Bethel Airport (also see Bethel Seaplane Base),P-N,155791.0,ALASKA
+12,CORDOVA,CDV,CDV,PACV,Merle K. (Mudhole) Smith Airport,P-N,18649.0,ALASKA
+13,DEADHORSE,SCC,SCC,PASC,Deadhorse Airport (Prudhoe Bay Airport),P-N,51205.0,ALASKA
+14,DILLINGHAM,DLG,DLG,PADL,Dillingham Airport,P-N,33616.0,ALASKA
+15,FAIRBANKS,FAI,FAI,PAFA,Fairbanks International Airport,P-S,538881.0,ALASKA
+16,GUSTAVUS,GST,GST,PAGS,Gustavus Airport,P-N,11438.0,ALASKA
+17,HOMER,HOM,HOM,PAHO,Homer Airport,P-N,44117.0,ALASKA
+18,JUNEAU,JNU,JNU,PAJN,Juneau International Airport,P-N,420442.0,ALASKA
+19,KENAI,ENA,ENA,PAEN,Kenai Municipal Airport,P-N,92485.0,ALASKA
+20,KETCHIKAN,KTN,KTN,PAKT,Ketchikan International Airport,P-N,127881.0,ALASKA
+21,KING SALMON,AKN,AKN,PAKN,King Salmon Airport,P-N,36717.0,ALASKA
+22,KLAWOCK,AKW,KLW,PAKW,Klawock Airport (also see Klawock Seaplane Base),P-N,10628.0,ALASKA
+23,KODIAK,ADQ,ADQ,PADQ,Kodiak Airport,P-N,79682.0,ALASKA
+24,KOTZEBUE,OTZ,OTZ,PAOT,Ralph Wien Memorial Airport,P-N,64481.0,ALASKA
+25,NOME,OME,OME,PAOM,Nome Airport,P-N,60655.0,ALASKA
+26,PETERSBURG,PSG,PSG,PAPG,Petersburg James A. Johnson Airport,P-N,21896.0,ALASKA
+27,ST. MARY'S,KSM,KSM,PASM,St. Mary's Airport,P-N,12851.0,ALASKA
+28,SITKA,SIT,SIT,PASI,Sitka Rocky Gutierrez Airport,P-N,83404.0,ALASKA
+29,UNALAKLEET,UNK,UNK,PAUN,Unalakleet Airport,P-N,16948.0,ALASKA
+30,UNALASKA,DUT,DUT,PADU,Unalaska Airport (Tom Madsen Airport),P-N,31055.0,ALASKA
+31,UTQIAGVIK,BRW,BRW,PABR,Wiley Post–Will Rogers Memorial Airport,P-N,45300.0,ALASKA
+32,VALDEZ,VDZ,VDZ,PAVD,Valdez Airport (Pioneer Field),P-N,12631.0,ALASKA
+33,WRANGELL,WRG,WRG,PAWG,Wrangell Airport (also see Wrangell Seaplane Base),P-N,12569.0,ALASKA
+34,YAKUTAT,YAK,YAK,PAYA,Yakutat Airport (also see Yakutat Seaplane Base),P-N,10756.0,ALASKA
+36,BULLHEAD CITY,IFP,IFP,KIFP,Laughlin/Bullhead International Airport,P-N,109334.0,ARIZONA
+37,FLAGSTAFF,FLG,FLG,KFLG,Flagstaff Pulliam Airport,P-N,64578.0,ARIZONA
+38,GRAND CANYON,GCN,GCN,KGCN,Grand Canyon National Park Airport,P-N,319206.0,ARIZONA
+39,MESA,IWA,AZA,KIWA,Phoenix–Mesa Gateway Airport (formerly Williams AFB),P-S,705731.0,ARIZONA
+40,PAGE,PGA,PGA,KPGA,Page Municipal Airport,P-N,17435.0,ARIZONA
+41,PHOENIX,PHX,PHX,KPHX,Phoenix Sky Harbor International Airport,P-L,20896265.0,ARIZONA
+42,PRESCOTT,PRC,PRC,KPRC,Prescott Municipal Airport (Ernest A. Love Field),P-N,3451.0,ARIZONA
+43,TUCSON,TUS,TUS,KTUS,Tucson International Airport,P-S,1594594.0,ARIZONA
+44,YUMA,NYL,YUM,KNYL,Yuma International Airport / MCAS Yuma,P-N,74742.0,ARIZONA
+46,FAYETTEVILLE,XNA,XNA,KXNA,Northwest Arkansas National Airport,P-S,673810.0,ARKANSAS
+47,FORT SMITH,FSM,FSM,KFSM,Fort Smith Regional Airport,P-N,83920.0,ARKANSAS
+48,LITTLE ROCK,LIT,LIT,KLIT,Clinton National Airport (Adams Field) (was Little Rock National),P-S,958824.0,ARKANSAS
+49,TEXARKANA,TXK,TXK,KTXK,Texarkana Regional Airport (Webb Field),P-N,33565.0,ARKANSAS
+51,ARCATA/EUREKA,ACV,ACV,KACV,Arcata Airport,P-N,69732.0,CALIFORNIA
+52,BAKERSFIELD,BFL,BFL,KBFL,Meadows Field,P-N,100433.0,CALIFORNIA
+53,BURBANK,BUR,BUR,KBUR,Hollywood Burbank Airport (was Bob Hope Airport),P-M,2077892.0,CALIFORNIA
+54,CONCORD,CCR,CCR,KCCR,Buchanan Field Airport,P-N,67.0,CALIFORNIA
+55,FRESNO,FAT,FAT,KFAT,Fresno Yosemite International Airport,P-S,761298.0,CALIFORNIA
+56,LONG BEACH,LGB,LGB,KLGB,Long Beach Airport (Daugherty Field),P-S,1386357.0,CALIFORNIA
+57,LOS ANGELES,LAX,LAX,KLAX,Los Angeles International Airport,P-L,39636042.0,CALIFORNIA
+58,MAMMOTH LAKES,MMH,MMH,KMMH,Mammoth Yosemite Airport,P-N [nb 1],21826.0,CALIFORNIA
+59,MONTEREY,MRY,MRY,KMRY,Monterey Regional Airport (was Monterey Peninsula Airport),P-N,192136.0,CALIFORNIA
+60,OAKLAND,OAK,OAK,KOAK,Oakland International Airport,P-M,5934639.0,CALIFORNIA
+61,ONTARIO,ONT,ONT,KONT,Ontario International Airport,P-M,4217366.0,CALIFORNIA
+62,ORANGE COUNTY,SNA,SNA,KSNA,John Wayne Airport (was Orange County Airport),P-M,5217242.0,CALIFORNIA
+63,PALM SPRINGS,PSP,PSP,KPSP,Palm Springs International Airport,P-S,995801.0,CALIFORNIA
+64,REDDING,RDD,RDD,KRDD,Redding Municipal Airport,P-N,43414.0,CALIFORNIA
+65,SACRAMENTO,SMF,SMF,KSMF,Sacramento International Airport,P-M,4969366.0,CALIFORNIA
+66,SAN DIEGO,SAN,SAN,KSAN,San Diego International Airport (Lindbergh Field),P-L,10340164.0,CALIFORNIA
+67,SAN FRANCISCO,SFO,SFO,KSFO,San Francisco International Airport,P-L,25707101.0,CALIFORNIA
+68,SAN JOSE,SJC,SJC,KSJC,Norman Y. Mineta San José International Airport,P-M,5321603.0,CALIFORNIA
+69,SAN LUIS OBISPO,SBP,SBP,KSBP,San Luis Obispo County Regional Airport (McChesney Field),P-N,162719.0,CALIFORNIA
+70,SANTA BARBARA,SBA,SBA,KSBA,Santa Barbara Municipal Airport (Santa Barbara Airport),P-N,329751.0,CALIFORNIA
+71,SANTA MARIA,SMX,SMX,KSMX,Santa Maria Public Airport (Capt G. Allan Hancock Field),P-N,40120.0,CALIFORNIA
+72,SANTA ROSA,STS,STS,KSTS,Charles M. Schulz–Sonoma County Airport,P-N,167151.0,CALIFORNIA
+73,STOCKTON,SCK,SCK,KSCK,Stockton Metropolitan Airport,P-N,93076.0,CALIFORNIA
+75,ASPEN,ASE,ASE,KASE,Aspen/Pitkin County Airport (Sardy Field),P-N,254392.0,COLORADO
+76,COLORADO SPRINGS,COS,COS,KCOS,City of Colorado Springs Municipal Airport,P-S,657694.0,COLORADO
+77,DENVER,DEN,DEN,KDEN,Denver International Airport,P-L,28267394.0,COLORADO
+78,DURANGO,DRO,DRO,KDRO,Durango–La Plata County Airport,P-N,187789.0,COLORADO
+79,EAGLE/VAIL,EGE,EGE,KEGE,Eagle County Regional Airport,P-N,163840.0,COLORADO
+80,GRAND JUNCTION,GJT,GJT,KGJT,Grand Junction Regional Airport (Walker Field),P-N,218319.0,COLORADO
+81,GUNNISON,GUC,GUC,KGUC,Gunnison–Crested Butte Regional Airport,P-N,30780.0,COLORADO
+82,HAYDEN,HDN,HDN,KHDN,Yampa Valley Airport (Yampa Valley Regional),P-N,34979.0,COLORADO
+83,MONTROSE,MTJ,MTJ,KMTJ,Montrose Regional Airport,P-N,116272.0,COLORADO
+84,PUEBLO,PUB,PUB,KPUB,Pueblo Memorial Airport,P-N,3965.0,COLORADO
+86,HARTFORD,BDL,BDL,KBDL,Bradley International Airport,P-M,2982194.0,CONNECTICUT
+87,NEW HAVEN,HVN,HVN,KHVN,Tweed New Haven Regional Airport,P-N,27911.0,CONNECTICUT
+89,DAYTONA BEACH,DAB,DAB,KDAB,Daytona Beach International Airport,P-N,340815.0,FLORIDA
+90,FORT LAUDERDALE,FLL,FLL,KFLL,Fort Lauderdale–Hollywood International Airport,P-L,17950989.0,FLORIDA
+91,FORT MYERS,RSW,RSW,KRSW,Southwest Florida International Airport,P-M,5044024.0,FLORIDA
+92,FORT WALTON BEACH,VPS,VPS,KVPS,Destin–Fort Walton Beach Airport / Eglin Air Force Base,P-S,813600.0,FLORIDA
+93,GAINESVILLE,GNV,GNV,KGNV,Gainesville Regional Airport,P-N,273253.0,FLORIDA
+94,JACKSONVILLE,JAX,JAX,KJAX,Jacksonville International Airport,P-M,3479923.0,FLORIDA
+95,KEY WEST,EYW,EYW,KEYW,Key West International Airport,P-N,497656.0,FLORIDA
+96,MELBOURNE,MLB,MLB,KMLB,Orlando Melbourne International Airport,P-N,241289.0,FLORIDA
+97,MIAMI,MIA,MIA,KMIA,Miami International Airport,P-L,21421031.0,FLORIDA
+98,ORLANDO,MCO,MCO,KMCO,Orlando International Airport,P-L,24562271.0,FLORIDA
+99,PANAMA CITY BEACH,ECP,ECP,KECP,Northwest Florida Beaches International Airport[nb 2],P-S,621406.0,FLORIDA
+100,PENSACOLA,PNS,PNS,KPNS,Pensacola International Airport,P-S,1098889.0,FLORIDA
+101,PUNTA GORDA,PGD,PGD,KPGD,Punta Gorda Airport,P-S,821557.0,FLORIDA
+102,SANFORD,SFB,SFB,KSFB,Orlando Sanford International Airport,P-S,1601614.0,FLORIDA
+103,SARASOTA,SRQ,SRQ,KSRQ,Sarasota–Bradenton International Airport,P-S,977530.0,FLORIDA
+104,ST. PETERSBURG,PIE,PIE,KPIE,St. Pete–Clearwater International Airport,P-S,1143483.0,FLORIDA
+105,TALLAHASSEE,TLH,TLH,KTLH,Tallahassee International Airport,P-N,415272.0,FLORIDA
+106,TAMPA,TPA,TPA,KTPA,Tampa International Airport,P-L,10941173.0,FLORIDA
+107,VERO BEACH,VRB,VRB,KVRB,Vero Beach Regional Airport,P-N,4581.0,FLORIDA
+108,WEST PALM BEACH,PBI,PBI,KPBI,Palm Beach International Airport,P-M,3100624.0,FLORIDA
+110,ALBANY,ABY,ABY,KABY,Southwest Georgia Regional Airport,P-N,34226.0,GEORGIA
+111,ATLANTA,ATL,ATL,KATL,Hartsfield–Jackson Atlanta International Airport,P-L,50501858.0,GEORGIA
+112,AUGUSTA,AGS,AGS,KAGS,Augusta Regional Airport (Bush Field),P-N,270797.0,GEORGIA
+113,BRUNSWICK,BQK,BQK,KBQK,Brunswick Golden Isles Airport,P-N,36054.0,GEORGIA
+114,COLUMBUS,CSG,CSG,KCSG,Columbus Metropolitan Airport,P-N,44813.0,GEORGIA
+115,MACON,MCN,MCN,KMCN,Middle Georgia Regional Airport,P-N,860.0,GEORGIA
+116,SAVANNAH,SAV,SAV,KSAV,Savannah/Hilton Head International Airport,P-S,1056265.0,GEORGIA
+117,VALDOSTA,VLD,VLD,KVLD,Valdosta Regional Airport,P-N,40275.0,GEORGIA
+119,"HILO, HAWAII",ITO,ITO,PHTO,Hilo International Airport,P-S,640757.0,HAWAII
+120,"HONOLULU, OAHU",HNL,HNL,PHNL,Daniel K. Inouye International Airport,P-L,9656340.0,HAWAII
+121,"KAHULUI, MAUI",OGG,OGG,PHOG,Kahului Airport,P-M,3352813.0,HAWAII
+122,"KAILUA-KONA, HAWAII",KOA,KOA,PHKO,Ellison Onizuka Kona International Airport at Keahole,P-S,1569602.0,HAWAII
+123,"KAUNAKAKAI, MOLOKAI",MKK,MKK,PHMK,Molokai Airport,P-N,92560.0,HAWAII
+124,"LANAI CITY, LANAI",LNY,LNY,PHNY,Lanai Airport,P-N,43275.0,HAWAII
+125,"LIHUE, KAUAI",LIH,LIH,PHLI,Lihue Airport,P-S,1458940.0,HAWAII
+127,BOISE,BOI,BOI,KBOI,Boise Airport (Boise Air Terminal) (Gowen Field),P-S,1633507.0,IDAHO
+128,IDAHO FALLS,IDA,IDA,KIDA,Idaho Falls Regional Airport (Fanning Field),P-N,146213.0,IDAHO
+129,LEWISTON,LWS,LWS,KLWS,Lewiston–Nez Perce County Airport,P-N,72724.0,IDAHO
+130,POCATELLO,PIH,PIH,KPIH,Pocatello Regional Airport,P-N,34462.0,IDAHO
+131,SUN VALLEY,SUN,SUN,KSUN,Friedman Memorial Airport,P-N,77729.0,IDAHO
+132,TWIN FALLS,TWF,TWF,KTWF,Magic Valley Regional Airport (Joslin Field),P-N,38869.0,IDAHO
+134,BELLEVILLE,BLV,BLV,KBLV,MidAmerica St. Louis Airport / Scott Air Force Base,P-N,79988.0,ILLINOIS
+135,BLOOMINGTON,BMI,BMI,KBMI,Central Illinois Regional Airport at Bloomington-Normal,P-N,188490.0,ILLINOIS
+136,CHAMPAIGN (SAVOY),CMI,CMI,KCMI,University of Illinois - Willard Airport,P-N,89318.0,ILLINOIS
+137,CHICAGO,ORD,ORD,KORD,Chicago O'Hare International Airport,P-L,37589899.0,ILLINOIS
+138,CHICAGO,MDW,MDW,KMDW,Chicago Midway International Airport,P-L,11044387.0,ILLINOIS
+139,MARION,MWA,MWA,KMWA,Veterans Airport of Southern Illinois (Williamson County Regional Airport),P-N,10044.0,ILLINOIS
+140,MOLINE,MLI,MLI,KMLI,Quad City International Airport,P-N,364393.0,ILLINOIS
+141,PEORIA,PIA,PIA,KPIA,General Wayne A. Downing Peoria International Airport,P-N,307189.0,ILLINOIS
+142,QUINCY,UIN,UIN,KUIN,Quincy Regional Airport (Baldwin Field),P-N,7847.0,ILLINOIS
+143,ROCKFORD,RFD,RFD,KRFD,Chicago Rockford International Airport (was Northwest Chicagoland Regional Airport at Rockford),P-N,101790.0,ILLINOIS
+144,SPRINGFIELD,SPI,SPI,KSPI,Abraham Lincoln Capital Airport,P-N,93269.0,ILLINOIS
+146,EVANSVILLE,EVV,EVV,KEVV,Evansville Regional Airport,P-N,204352.0,INDIANA
+147,FORT WAYNE,FWA,FWA,KFWA,Fort Wayne International Airport,P-N,360369.0,INDIANA
+148,INDIANAPOLIS,IND,IND,KIND,Indianapolis International Airport,P-M,4216766.0,INDIANA
+149,SOUTH BEND,SBN,SBN,KSBN,South Bend International Airport (was South Bend Regional),P-N,329957.0,INDIANA
+151,CEDAR RAPIDS,CID,CID,KCID,The Eastern Iowa Airport,P-S,547786.0,IOWA
+152,DES MOINES,DSM,DSM,KDSM,Des Moines International Airport,P-S,1216357.0,IOWA
+153,DUBUQUE,DBQ,DBQ,KDBQ,Dubuque Regional Airport,P-N,37954.0,IOWA
+154,SIOUX CITY,SUX,SUX,KSUX,Sioux Gateway Airport (Col. Bud Day Field),P-N,36413.0,IOWA
+155,WATERLOO,ALO,ALO,KALO,Waterloo Regional Airport,P-N,27069.0,IOWA
+157,GARDEN CITY,GCK,GCK,KGCK,Garden City Regional Airport,P-N,26825.0,KANSAS
+158,HAYS,HYS,HYS,KHYS,Hays Regional Airport,P-N,8265.0,KANSAS
+159,MANHATTAN,MHK,MHK,KMHK,Manhattan Regional Airport,P-N,63761.0,KANSAS
+160,SALINA,SLN,SLN,KSLN,Salina Regional Airport,P-N,3967.0,KANSAS
+161,WICHITA,ICT,ICT,KICT,Wichita Dwight D. Eisenhower National Airport (formerly Wichita Mid-Continent Airport),P-S,781944.0,KANSAS
+163,CINCINNATI/COVINGTON,CVG,CVG,KCVG,Cincinnati/Northern Kentucky International Airport,P-M,3269979.0,KENTUCKY
+164,LEXINGTON,LEX,LEX,KLEX,Blue Grass Airport,P-S,638316.0,KENTUCKY
+165,LOUISVILLE,SDF,SDF,KSDF,Louisville International Airport (Standiford Field),P-S,1631494.0,KENTUCKY
+166,OWENSBORO,OWB,OWB,KOWB,Owensboro–Daviess County Regional Airport,P-N,23537.0,KENTUCKY
+167,PADUCAH,PAH,PAH,KPAH,Barkley Regional Airport,P-N,20266.0,KENTUCKY
+169,ALEXANDRIA,AEX,AEX,KAEX,Alexandria International Airport,P-N,129776.0,LOUISIANA
+170,BATON ROUGE,BTR,BTR,KBTR,Baton Rouge Metropolitan Airport (Ryan Field),P-N,364200.0,LOUISIANA
+171,LAFAYETTE,LFT,LFT,KLFT,Lafayette Regional Airport,P-N,206667.0,LOUISIANA
+172,LAKE CHARLES,LCH,LCH,KLCH,Lake Charles Regional Airport,P-N,53576.0,LOUISIANA
+173,MONROE,MLU,MLU,KMLU,Monroe Regional Airport,P-N,102342.0,LOUISIANA
+174,NEW ORLEANS,MSY,MSY,KMSY,Louis Armstrong New Orleans International Airport,P-M,5569705.0,LOUISIANA
+175,SHREVEPORT,SHV,SHV,KSHV,Shreveport Regional Airport,P-N,270395.0,LOUISIANA
+177,BANGOR,BGR,BGR,KBGR,Bangor International Airport,P-N,269013.0,MAINE
+178,PORTLAND,PWM,PWM,KPWM,Portland International Jetport,P-S,886343.0,MAINE
+179,PRESQUE ISLE,PQI,PQI,KPQI,Presque Isle International Airport,P-N,12526.0,MAINE
+180,ROCKLAND,RKD,RKD,KRKD,Knox County Regional Airport,P-N,16206.0,MAINE
+182,BALTIMORE,BWI,BWI,KBWI,Baltimore/Washington International Airport,P-L,13371816.0,MARYLAND
+183,HAGERSTOWN,HGR,HGR,KHGR,Hagerstown Regional Airport (Richard A. Henson Field),P-N,23654.0,MARYLAND
+184,SALISBURY,SBY,SBY,KSBY,Salisbury–Ocean City–Wicomico Regional Airport,P-N,64393.0,MARYLAND
+186,BEDFORD,BED,BED,KBED,Hanscom Field / Hanscom Air Force Base,P-N,15105.0,MASSACHUSETTS
+187,BOSTON,BOS,BOS,KBOS,Gen. Edward Lawrence Logan International Airport,P-L,17759044.0,MASSACHUSETTS
+188,HYANNIS,HYA,HYA,KHYA,Barnstable Municipal Airport (Boardman/Polando Field),P-N,31027.0,MASSACHUSETTS
+189,NANTUCKET,ACK,ACK,KACK,Nantucket Memorial Airport,P-N,126197.0,MASSACHUSETTS
+190,PROVINCETOWN,PVC,PVC,KPVC,Provincetown Municipal Airport,P-N,10074.0,MASSACHUSETTS
+191,VINEYARD HAVEN,MVY,MVY,KMVY,Martha's Vineyard Airport,P-N,54084.0,MASSACHUSETTS
+192,WORCESTER,ORH,ORH,KORH,Worcester Regional Airport,P-N,57800.0,MASSACHUSETTS
+194,ALPENA,APN,APN,KAPN,Alpena County Regional Airport,P-N,10031.0,MICHIGAN
+195,DETROIT,DTW,DTW,KDTW,Detroit Metropolitan Airport,P-L,16847135.0,MICHIGAN
+196,ESCANABA,ESC,ESC,KESC,Delta County Airport,P-N,16822.0,MICHIGAN
+197,FLINT,FNT,FNT,KFNT,Bishop International Airport,P-N,398508.0,MICHIGAN
+198,GRAND RAPIDS,GRR,GRR,KGRR,Gerald R. Ford International Airport,P-S,1334979.0,MICHIGAN
+199,HANCOCK,CMX,CMX,KCMX,Houghton County Memorial Airport,P-N,25439.0,MICHIGAN
+200,IRON MOUNTAIN,IMT,IMT,KIMT,Ford Airport,P-N,12604.0,MICHIGAN
+201,KALAMAZOO,AZO,AZO,KAZO,Kalamazoo/Battle Creek International Airport,P-N,154242.0,MICHIGAN
+202,LANSING,LAN,LAN,KLAN,Capital Region International Airport (was Lansing Capital City),P-N,161863.0,MICHIGAN
+203,MARQUETTE,SAW,MQT,KSAW,Sawyer International Airport,P-N,45462.0,MICHIGAN
+204,MUSKEGON,MKG,MKG,KMKG,Muskegon County Airport,P-N,18165.0,MICHIGAN
+205,PELLSTON,PLN,PLN,KPLN,Pellston Regional Airport,P-N,25497.0,MICHIGAN
+206,SAGINAW,MBS,MBS,KMBS,MBS International Airport,P-N,122469.0,MICHIGAN
+207,SAULT STE. MARIE,CIU,CIU,KCIU,Chippewa County International Airport,P-N,20974.0,MICHIGAN
+208,TRAVERSE CITY,TVC,TVC,KTVC,Cherry Capital Airport (was Cherry County Airpark),P-N,223924.0,MICHIGAN
+210,BEMIDJI,BJI,BJI,KBJI,Bemidji Regional Airport,P-N,25510.0,MINNESOTA
+211,BRAINERD,BRD,BRD,KBRD,Brainerd Lakes Regional Airport,P-N,18200.0,MINNESOTA
+212,DULUTH,DLH,DLH,KDLH,Duluth International Airport,P-N,124284.0,MINNESOTA
+213,HIBBING,HIB,HIB,KHIB,Range Regional Airport (was Chisholm–Hibbing Airport),P-N,12654.0,MINNESOTA
+214,INTERNATIONAL FALLS,INL,INL,KINL,Falls International Airport,P-N,13831.0,MINNESOTA
+215,MINNEAPOLIS,MSP,MSP,KMSP,Minneapolis–St. Paul International Airport (Wold–Chamberlain Field),P-L,18123844.0,MINNESOTA
+216,ROCHESTER,RST,RST,KRST,Rochester International Airport,P-N,112864.0,MINNESOTA
+217,ST. CLOUD,STC,STC,KSTC,St. Cloud Regional Airport,P-N,15615.0,MINNESOTA
+219,COLUMBUS,GTR,GTR,KGTR,Golden Triangle Regional Airport,P-N,40823.0,MISSISSIPPI
+220,GULFPORT / BILOXI,GPT,GPT,KGPT,Gulfport–Biloxi International Airport,P-N,305157.0,MISSISSIPPI
+221,JACKSON,JAN,JAN,KJAN,Jackson–Medgar Wiley Evers International Airport,P-S,491464.0,MISSISSIPPI
+222,MERIDIAN,MEI,MEI,KMEI,Meridian Regional Airport (Key Field),P-N,26359.0,MISSISSIPPI
+223,TUPELO,TUP,TUP,KTUP,Tupelo Regional Airport (C.D. Lemons Field),P-N,7539.0,MISSISSIPPI
+225,COLUMBIA,COU,COU,KCOU,Columbia Regional Airport,P-N,65014.0,MISSOURI
+226,JOPLIN,JLN,JLN,KJLN,Joplin Regional Airport,P-N,27930.0,MISSOURI
+227,KANSAS CITY,MCI,MCI,KMCI,Kansas City International Airport (originally Mid-Continent International Airport),P-M,5391557.0,MISSOURI
+228,SPRINGFIELD,SGF,SGF,KSGF,Springfield–Branson National Airport,P-S,462126.0,MISSOURI
+229,ST. LOUIS,STL,STL,KSTL,St. Louis Lambert International Airport,P-M,6793076.0,MISSOURI
+231,BILLINGS,BIL,BIL,KBIL,Billings Logan International Airport,P-N,423213.0,MONTANA
+232,BOZEMAN,BZN,BZN,KBZN,Bozeman Yellowstone International Airport (was Gallatin Field Airport),P-S,553245.0,MONTANA
+233,BUTTE,BTM,BTM,KBTM,Bert Mooney Airport,P-N,25890.0,MONTANA
+234,GREAT FALLS,GTF,GTF,KGTF,Great Falls International Airport,P-N,176730.0,MONTANA
+235,HELENA,HLN,HLN,KHLN,Helena Regional Airport,P-N,103239.0,MONTANA
+236,KALISPELL,GPI,FCA,KGPI,Glacier Park International Airport,P-N,247816.0,MONTANA
+237,MISSOULA,MSO,MSO,KMSO,Missoula International Airport,P-N,381582.0,MONTANA
+238,SIDNEY,SDY,SDY,KSDY,Sidney–Richland Municipal Airport,P-N,8065.0,MONTANA
+239,WEST YELLOWSTONE,WYS,WYS,KWYS,Yellowstone Airport,P-N,8525.0,MONTANA
+241,GRAND ISLAND,GRI,GRI,KGRI,Central Nebraska Regional Airport,P-N,68879.0,NEBRASKA
+242,LINCOLN,LNK,LNK,KLNK,Lincoln Airport (was Lincoln Municipal),P-N,162876.0,NEBRASKA
+243,NORTH PLATTE,LBF,LBF,KLBF,North Platte Regional Airport (Lee Bird Field),P-N,4075.0,NEBRASKA
+244,OMAHA,OMA,OMA,KOMA,Eppley Airfield,P-M,2127387.0,NEBRASKA
+245,SCOTTSBLUFF,BFF,BFF,KBFF,Western Nebraska Regional Airport (William B. Heilig Field),P-N,4262.0,NEBRASKA
+247,BOULDER CITY,BVU,BLD,KBVU,Boulder City Municipal Airport,P-N,211615.0,NEVADA
+248,ELKO,EKO,EKO,KEKO,Elko Regional Airport (J.C. Harris Field),P-N,14893.0,NEVADA
+249,LAS VEGAS,LAS,LAS,KLAS,McCarran International Airport,P-L,22833267.0,NEVADA
+250,RENO,RNO,RNO,KRNO,Reno/Tahoe International Airport,P-S,1771864.0,NEVADA
+252,LEBANON,LEB,LEB,KLEB,Lebanon Municipal Airport,P-N,10245.0,NEW HAMPSHIRE
+253,MANCHESTER,MHT,MHT,KMHT,Manchester–Boston Regional Airport,P-S,995403.0,NEW HAMPSHIRE
+254,PORTSMOUTH,PSM,PSM,KPSM,Portsmouth International Airport at Pease,P-N,73247.0,NEW HAMPSHIRE
+256,ATLANTIC CITY,ACY,ACY,KACY,Atlantic City International Airport,P-S,589091.0,NEW JERSEY
+257,NEW YORK / NEWARK,EWR,EWR,KEWR,Newark Liberty International Airport,P-L,19923009.0,NEW JERSEY
+258,TRENTON,TTN,TTN,KTTN,Trenton Mercer Airport,P-N,278436.0,NEW JERSEY
+260,ALBUQUERQUE,ABQ,ABQ,KABQ,Albuquerque International Sunport,P-M,2341719.0,NEW MEXICO
+261,HOBBS,HOB,HOB,KHOB,Lea County Regional Airport,P-N,14707.0,NEW MEXICO
+262,ROSWELL,ROW,ROW,KROW,Roswell International Air Center,P-N,44378.0,NEW MEXICO
+263,SANTA FE,SAF,SAF,KSAF,Santa Fe Regional Airport,P-N,71252.0,NEW MEXICO
+265,ALBANY,ALB,ALB,KALB,Albany International Airport,P-S,1393666.0,NEW YORK
+266,BINGHAMTON,BGM,BGM,KBGM,Greater Binghamton Airport (Edwin A. Link Field),P-N,33425.0,NEW YORK
+267,BUFFALO,BUF,BUF,KBUF,Buffalo Niagara International Airport,P-M,2348512.0,NEW YORK
+268,ELMIRA,ELM,ELM,KELM,Elmira/Corning Regional Airport,P-N,126472.0,NEW YORK
+269,ISLIP,ISP,ISP,KISP,Long Island MacArthur Airport,P-S,648593.0,NEW YORK
+270,ITHACA,ITH,ITH,KITH,Ithaca Tompkins International Airport,P-N,97212.0,NEW YORK
+271,NEW YORK,JFK,JFK,KJFK,John F. Kennedy International Airport (was New York International Airport),P-L,29533154.0,NEW YORK
+272,NEW YORK,LGA,LGA,KLGA,LaGuardia Airport (and Marine Air Terminal),P-L,14614802.0,NEW YORK
+273,NEWBURGH,SWF,SWF,KSWF,Stewart International Airport,P-N,228640.0,NEW YORK
+274,NIAGARA FALLS,IAG,IAG,KIAG,Niagara Falls International Airport,P-N,142605.0,NEW YORK
+275,OGDENSBURG,OGS,OGS,KOGS,Ogdensburg International Airport,P-N,10281.0,NEW YORK
+276,PLATTSBURGH,PBG,PBG,KPBG,Plattsburgh International Airport,P-N,139398.0,NEW YORK
+277,ROCHESTER,ROC,ROC,KROC,Greater Rochester International Airport,P-S,1205774.0,NEW YORK
+278,SYRACUSE,SYR,SYR,KSYR,Syracuse Hancock International Airport,P-S,1013149.0,NEW YORK
+279,WATERTOWN,ART,ART,KART,Watertown International Airport,P-N,22785.0,NEW YORK
+280,WHITE PLAINS,HPN,HPN,KHPN,Westchester County Airport,P-S,759334.0,NEW YORK
+282,ASHEVILLE,AVL,AVL,KAVL,Asheville Regional Airport,P-S,416939.0,NORTH CAROLINA
+283,CHARLOTTE,CLT,CLT,KCLT,Charlotte/Douglas International Airport,P-L,21511880.0,NORTH CAROLINA
+284,CONCORD,JQF,USA,KJQF,Concord Regional Airport,P-N,90338.0,NORTH CAROLINA
+285,FAYETTEVILLE,FAY,FAY,KFAY,Fayetteville Regional Airport (Grannis Field),P-N,224541.0,NORTH CAROLINA
+286,GREENSBORO,GSO,GSO,KGSO,Piedmont Triad International Airport,P-S,848261.0,NORTH CAROLINA
+287,GREENVILLE,PGV,PGV,KPGV,Pitt–Greenville Airport,P-N,47457.0,NORTH CAROLINA
+288,JACKSONVILLE,OAJ,OAJ,KOAJ,Albert J. Ellis Airport,P-N,149987.0,NORTH CAROLINA
+289,NEW BERN,EWN,EWN,KEWN,Coastal Carolina Regional Airport (was Craven County Regional),P-N,106110.0,NORTH CAROLINA
+290,RALEIGH,RDU,RDU,KRDU,Raleigh–Durham International Airport,P-M,5401714.0,NORTH CAROLINA
+291,WILMINGTON,ILM,ILM,KILM,Wilmington International Airport,P-S,413185.0,NORTH CAROLINA
+293,BISMARCK,BIS,BIS,KBIS,Bismarck Municipal Airport,P-N,273980.0,NORTH DAKOTA
+294,DICKINSON,DIK,DIK,KDIK,Dickinson Theodore Roosevelt Regional Airport,P-N,16822.0,NORTH DAKOTA
+295,FARGO,FAR,FAR,KFAR,Hector International Airport,P-N,402976.0,NORTH DAKOTA
+296,GRAND FORKS,GFK,GFK,KGFK,Grand Forks International Airport,P-N,132557.0,NORTH DAKOTA
+297,JAMESTOWN,JMS,JMS,KJMS,Jamestown Regional Airport,P-N,7941.0,NORTH DAKOTA
+298,MINOT,MOT,MOT,KMOT,Minot International Airport,P-N,150634.0,NORTH DAKOTA
+299,WILLISTON,XWA,XWA,KXWA,Williston Basin International Airport,P-N,68829.0,NORTH DAKOTA
+301,AKRON,CAK,CAK,KCAK,Akron–Canton Airport,P-N,685553.0,OHIO
+302,CLEVELAND,CLE,CLE,KCLE,Cleveland Hopkins International Airport,P-M,4083476.0,OHIO
+303,COLUMBUS,CMH,CMH,KCMH,John Glenn Columbus International Airport,P-M,3567864.0,OHIO
+304,COLUMBUS,LCK,LCK,KLCK,Rickenbacker International Airport,P-N,102751.0,OHIO
+305,DAYTON,DAY,DAY,KDAY,James M. Cox Dayton International Airport,P-S,1019922.0,OHIO
+306,TOLEDO,TOL,TOL,KTOL,Toledo Express Airport,P-N,92522.0,OHIO
+308,LAWTON,LAW,LAW,KLAW,Lawton–Fort Sill Regional Airport,P-N,51088.0,OKLAHOMA
+309,OKLAHOMA CITY,OKC,OKC,KOKC,Will Rogers World Airport,P-S,1796473.0,OKLAHOMA
+310,STILLWATER,SWO,SWO,KSWO,Stillwater Regional Airport,P-N,10362.0,OKLAHOMA
+311,TULSA,TUL,TUL,KTUL,Tulsa International Airport,P-S,1342315.0,OKLAHOMA
+313,EUGENE,EUG,EUG,KEUG,Eugene Airport (Mahlon Sweet Field),P-S,483224.0,OREGON
+314,MEDFORD,MFR,MFR,KMFR,Rogue Valley International–Medford Airport,P-S,401469.0,OREGON
+315,NORTH BEND,OTH,OTH,KOTH,Southwest Oregon Regional Airport (was North Bend Municipal),P-N,14719.0,OREGON
+316,PORTLAND,PDX,PDX,KPDX,Portland International Airport,P-L,9071154.0,OREGON
+317,REDMOND,RDM,RDM,KRDM,Redmond Municipal Airport (Roberts Field),P-N,306517.0,OREGON
+319,ALLENTOWN,ABE,ABE,KABE,Lehigh Valley International Airport (was Allentown–Bethlehem–Easton International Airport),P-N,376769.0,PENNSYLVANIA
+320,ERIE,ERI,ERI,KERI,Erie International Airport (Tom Ridge Field),P-N,95924.0,PENNSYLVANIA
+321,HARRISBURG,MDT,MDT,KMDT,Harrisburg International Airport,P-S,636916.0,PENNSYLVANIA
+322,LATROBE,LBE,LBE,KLBE,Arnold Palmer Regional Airport,P-N,151704.0,PENNSYLVANIA
+323,PHILADELPHIA,PHL,PHL,KPHL,Philadelphia International Airport,P-L,15285948.0,PENNSYLVANIA
+324,PITTSBURGH,PIT,PIT,KPIT,Pittsburgh International Airport,P-M,4670954.0,PENNSYLVANIA
+325,STATE COLLEGE,UNV,SCE,KUNV,University Park Airport,P-N,153737.0,PENNSYLVANIA
+326,WILKES-BARRE,AVP,AVP,KAVP,Wilkes-Barre/Scranton International Airport,P-N,258830.0,PENNSYLVANIA
+327,WILLIAMSPORT,IPT,IPT,KIPT,Williamsport Regional Airport,P-N,22547.0,PENNSYLVANIA
+329,BLOCK ISLAND,BID,BID,KBID,Block Island State Airport,P-N,17225.0,RHODE ISLAND
+330,PROVIDENCE,PVD,PVD,KPVD,Theodore Francis Green State Airport,P-S,1803000.0,RHODE ISLAND
+331,WESTERLY,WST,WST,KWST,Westerly State Airport,P-N,17218.0,RHODE ISLAND
+333,CHARLESTON,CHS,CHS,KCHS,Charleston International Airport / Charleston AFB,P-S,1811695.0,SOUTH CAROLINA
+334,COLUMBIA,CAE,CAE,KCAE,Columbia Metropolitan Airport,P-S,553658.0,SOUTH CAROLINA
+335,FLORENCE,FLO,FLO,KFLO,Florence Regional Airport,P-N,45300.0,SOUTH CAROLINA
+336,GREENVILLE,GSP,GSP,KGSP,Greenville–Spartanburg International Airport (Roger Milliken Field),P-S,991276.0,SOUTH CAROLINA
+337,HILTON HEAD,HXD,HHH,KHXD,Hilton Head Airport,P-N,30956.0,SOUTH CAROLINA
+338,MYRTLE BEACH,MYR,MYR,KMYR,Myrtle Beach International Airport,P-S,944849.0,SOUTH CAROLINA
+340,ABERDEEN,ABR,ABR,KABR,Aberdeen Regional Airport,P-N,26529.0,SOUTH DAKOTA
+341,PIERRE,PIR,PIR,KPIR,Pierre Regional Airport,P-N,8246.0,SOUTH DAKOTA
+342,RAPID CITY,RAP,RAP,KRAP,Rapid City Regional Airport,P-N,272537.0,SOUTH DAKOTA
+343,SIOUX FALLS,FSD,FSD,KFSD,Sioux Falls Regional Airport (Joe Foss Field),P-S,510105.0,SOUTH DAKOTA
+344,WATERTOWN,ATY,ATY,KATY,Watertown Regional Airport,P-N,2117.0,SOUTH DAKOTA
+346,CHATTANOOGA,CHA,CHA,KCHA,Chattanooga Metropolitan Airport (Lovell Field),P-S,422442.0,TENNESSEE
+347,KNOXVILLE,TYS,TYS,KTYS,McGhee Tyson Airport,P-S,887103.0,TENNESSEE
+348,MEMPHIS,MEM,MEM,KMEM,Memphis International Airport,P-S,2016089.0,TENNESSEE
+349,NASHVILLE,BNA,BNA,KBNA,Nashville International Airport (Berry Field),P-M,6338517.0,TENNESSEE
+350,TRI-CITIES,TRI,TRI,KTRI,Tri-Cities Regional Airport (Tri-Cities Regional TN/VA),P-N,204926.0,TENNESSEE
+352,ABILENE,ABI,ABI,KABI,Abilene Regional Airport,P-N,84809.0,TEXAS
+353,AMARILLO,AMA,AMA,KAMA,Rick Husband Amarillo International Airport,P-N,334815.0,TEXAS
+354,AUSTIN,AUS,AUS,KAUS,Austin–Bergstrom International Airport,P-M,6095545.0,TEXAS
+355,BEAUMONT,BPT,BPT,KBPT,Jack Brooks Regional Airport (was Southeast Texas Regional),P-N,26518.0,TEXAS
+356,BROWNSVILLE,BRO,BRO,KBRO,Brownsville/South Padre Island International Airport,P-N,120151.0,TEXAS
+357,COLLEGE STATION,CLL,CLL,KCLL,Easterwood Airport (Easterwood Field),P-N,78907.0,TEXAS
+358,CORPUS CHRISTI,CRP,CRP,KCRP,Corpus Christi International Airport,P-N,325815.0,TEXAS
+359,DALLAS,DAL,DAL,KDAL,Dallas Love Field,P-M,7554596.0,TEXAS
+360,DALLAS,DFW,DFW,KDFW,Dallas/Fort Worth International Airport,P-L,31283579.0,TEXAS
+361,EL PASO,ELP,ELP,KELP,El Paso International Airport,P-S,1414376.0,TEXAS
+362,HARLINGEN,HRL,HRL,KHRL,Valley International Airport,P-N,263760.0,TEXAS
+363,HOUSTON,IAH,IAH,KIAH,George Bush Intercontinental Airport,P-L,20062072.0,TEXAS
+364,HOUSTON,HOU,HOU,KHOU,William P. Hobby Airport,P-M,6285181.0,TEXAS
+365,KILLEEN,GRK,GRK,KGRK,Killeen–Fort Hood Regional Airport / Robert Gray Army Airfield,P-N,157161.0,TEXAS
+366,LAREDO,LRD,LRD,KLRD,Laredo International Airport,P-N,101115.0,TEXAS
+367,LONGVIEW,GGG,GGG,KGGG,East Texas Regional Airport,P-N,22480.0,TEXAS
+368,LUBBOCK,LBB,LBB,KLBB,Lubbock Preston Smith International Airport,P-S,448093.0,TEXAS
+369,MCALLEN,MFE,MFE,KMFE,McAllen Miller International Airport,P-N,355224.0,TEXAS
+370,MIDLAND,MAF,MAF,KMAF,Midland International Air and Space Port,P-S,471490.0,TEXAS
+371,SAN ANGELO,SJT,SJT,KSJT,San Angelo Regional Airport (Mathis Field),P-N,60277.0,TEXAS
+372,SAN ANTONIO,SAT,SAT,KSAT,San Antonio International Airport,P-M,4179994.0,TEXAS
+373,TYLER,TYR,TYR,KTYR,Tyler Pounds Regional Airport,P-N,52494.0,TEXAS
+374,WACO,ACT,ACT,KACT,Waco Regional Airport,P-N,64356.0,TEXAS
+375,WICHITA FALLS,SPS,SPS,KSPS,Wichita Falls Regional Airport / Sheppard Air Force Base,P-N,40165.0,TEXAS
+377,CEDAR CITY,CDC,CDC,KCDC,Cedar City Regional Airport,P-N,14413.0,UTAH
+378,MOAB,CNY,CNY,KCNY,Canyonlands Field,P-N,7837.0,UTAH
+379,OGDEN,OGD,OGD,KOGD,Ogden-Hinckley Airport,P-N,15609.0,UTAH
+380,PROVO,PVU,PVU,KPVU,Provo Municipal Airport,P-N,78451.0,UTAH
+381,SALT LAKE CITY,SLC,SLC,KSLC,Salt Lake City International Airport,P-L,11143738.0,UTAH
+382,ST. GEORGE,SGU,SGU,KSGU,St. George Regional Airport (opened 2011),P-N,78680.0,UTAH
+383,VERNAL,VEL,VEL,KVEL,Vernal Regional Airport (was Vernal-Uintah Co. Airport),P-N,4007.0,UTAH
+385,BURLINGTON,BTV,BTV,KBTV,Burlington International Airport,P-S,593311.0,VERMONT
+387,CHARLOTTESVILLE,CHO,CHO,KCHO,Charlottesville–Albemarle Airport,P-N,295930.0,VIRGINIA
+388,LYNCHBURG,LYH,LYH,KLYH,Lynchburg Regional Airport (Preston Glenn Field),P-N,75465.0,VIRGINIA
+389,NEWPORT NEWS,PHF,PHF,KPHF,Newport News/Williamsburg International Airport (Patrick Henry Field),P-N,199421.0,VIRGINIA
+390,NORFOLK,ORF,ORF,KORF,Norfolk International Airport,P-S,1602631.0,VIRGINIA
+391,RICHMOND,RIC,RIC,KRIC,Richmond International Airport (Byrd Field),P-S,1777648.0,VIRGINIA
+392,ROANOKE,ROA,ROA,KROA,Roanoke–Blacksburg Regional Airport (Woodrum Field),P-N,305212.0,VIRGINIA
+393,STAUNTON / WAYNESBORO / HARRISONBURG,SHD,SHD,KSHD,Shenandoah Valley Regional Airport,P-N,5442.0,VIRGINIA
+394,"WASHINGTON, D.C. / ARLINGTON COUNTY",DCA,DCA,KDCA,Ronald Reagan Washington National Airport,P-L,11470854.0,VIRGINIA
+395,"WASHINGTON, D.C. / DULLES / CHANTILLY",IAD,IAD,KIAD,Washington Dulles International Airport,P-L,10596942.0,VIRGINIA
+397,BELLINGHAM,BLI,BLI,KBLI,Bellingham International Airport,P-N,415285.0,WASHINGTON
+398,EASTSOUND,ORS,ESD,KORS,Orcas Island Airport,P-N,7826.0,WASHINGTON
+399,FRIDAY HARBOR,FHR,FRD,KFHR,Friday Harbor Airport,P-N,12831.0,WASHINGTON
+400,PASCO,PSC,PSC,KPSC,Tri-Cities Airport,P-N,374301.0,WASHINGTON
+401,"PULLMAN / MOSCOW, IDAHO",PUW,PUW,KPUW,Pullman/Moscow Regional Airport,P-N,61833.0,WASHINGTON
+402,SEATTLE,BFI,BFI,KBFI,King County International Airport (Boeing Field),P-N,17795.0,WASHINGTON
+403,SEATTLE / TACOMA (SEATAC),SEA,SEA,KSEA,Seattle–Tacoma International Airport,P-L,21887110.0,WASHINGTON
+404,SPOKANE,GEG,GEG,KGEG,Spokane International Airport (Geiger Field),P-S,1570652.0,WASHINGTON
+405,WALLA WALLA,ALW,ALW,KALW,Walla Walla Regional Airport,P-N,47439.0,WASHINGTON
+406,WENATCHEE,EAT,EAT,KEAT,Pangborn Memorial Airport,P-N,60068.0,WASHINGTON
+407,YAKIMA,YKM,YKM,KYKM,Yakima Air Terminal (McAllister Field),P-N,70993.0,WASHINGTON
+409,CHARLESTON,CRW,CRW,KCRW,Yeager Airport,P-N,213412.0,WEST VIRGINIA
+410,CLARKSBURG,CKB,CKB,KCKB,North Central West Virginia Airport (was Harrison-Marion Regional),P-N,26025.0,WEST VIRGINIA
+411,HUNTINGTON,HTS,HTS,KHTS,Tri-State Airport (Milton J. Ferguson Field),P-N,98489.0,WEST VIRGINIA
+412,LEWISBURG,LWB,LWB,KLWB,Greenbrier Valley Airport,P-N,4965.0,WEST VIRGINIA
+414,APPLETON,ATW,ATW,KATW,Appleton International Airport,P-N,348026.0,WISCONSIN
+415,EAU CLAIRE,EAU,EAU,KEAU,Chippewa Valley Regional Airport,P-N,23950.0,WISCONSIN
+416,GREEN BAY,GRB,GRB,KGRB,Green Bay–Austin Straubel International Airport,P-N,314909.0,WISCONSIN
+417,LA CROSSE,LSE,LSE,KLSE,La Crosse Regional Airport,P-N,99651.0,WISCONSIN
+418,MADISON,MSN,MSN,KMSN,Dane County Regional Airport (Truax Field),P-S,1043185.0,WISCONSIN
+419,MILWAUKEE,MKE,MKE,KMKE,Milwaukee Mitchell International Airport,P-M,3496724.0,WISCONSIN
+420,MOSINEE,CWA,CWA,KCWA,Central Wisconsin Airport,P-N,124632.0,WISCONSIN
+421,RHINELANDER,RHI,RHI,KRHI,Rhinelander–Oneida County Airport,P-N,24477.0,WISCONSIN
+423,CASPER,CPR,CPR,KCPR,Casper–Natrona County International Airport,P-N,86905.0,WYOMING
+424,CODY,COD,COD,KCOD,Yellowstone Regional Airport,P-N,39407.0,WYOMING
+425,GILLETTE,GCC,GCC,KGCC,Gillette–Campbell County Airport,P-N,27136.0,WYOMING
+426,JACKSON,JAC,JAC,KJAC,Jackson Hole Airport,P-N,381539.0,WYOMING
+427,LARAMIE,LAR,LAR,KLAR,Laramie Regional Airport,P-N,17188.0,WYOMING
+428,RIVERTON,RIW,RIW,KRIW,Central Wyoming Regional Airport (was Riverton Regional),P-N,11811.0,WYOMING
+429,ROCK SPRINGS,RKS,RKS,KRKS,Southwest Wyoming Regional Airport (Rock Springs–Sweetwater County Airport),P-N,23020.0,WYOMING
+430,SHERIDAN,SHR,SHR,KSHR,Sheridan County Airport,P-N,13182.0,WYOMING
+432,"PAGO PAGO, TUTUILA",PPG,PPG,NSTU,Pago Pago International Airport,P-N,65439.0,AMERICAN SAMOA
+434,AGANA / TAMUNING,GUM,GUM,PGUM,Antonio B. Won Pat International Airport,P-S,1444299.0,GUAM
+436,"OBYAN, SAIPAN ISLAND",GSN,SPN,PGSN,Saipan International Airport (Francisco C. Ada),P-S,430275.0,NORTHERN MARIANAS
+437,ROTA ISLAND,GRO,ROP,PGRO,Rota International Airport,P-N,19178.0,NORTHERN MARIANAS
+438,TINIAN ISLAND,TNI,TIQ,PGWT,Tinian International Airport (West Tinian),P-N,38452.0,NORTHERN MARIANAS
+440,AGUADILLA,BQN,BQN,TJBQ,Rafael Hernández International Airport,P-N,257871.0,PUERTO RICO
+441,CEIBA,RVR,NRR,TJRV,José Aponte de la Torre Airport,P-N,43005.0,PUERTO RICO
+442,CULEBRA,CPX,CPX,TJCP,Benjamín Rivera Noriega Airport,P-N,31141.0,PUERTO RICO
+443,PONCE,PSE,PSE,TJPS,Mercedita International Airport,P-N,105804.0,PUERTO RICO
+444,SAN JUAN / CAROLINA,SJU,SJU,TJSJ,Luis Muñoz Marín International Airport,P-M,4343354.0,PUERTO RICO
+445,SAN JUAN / MIRAMAR,SIG,SIG,TJIG,Fernando Luis Ribas Dominicci Airport (Isla Grande Airport),P-N,24054.0,PUERTO RICO
+446,VIEQUES,VQS,VQS,TJVQ,Antonio Rivera Rodríguez Airport,P-N,63104.0,PUERTO RICO
+448,"CHARLOTTE AMALIE, ST. THOMAS",STT,STT,TIST,Cyril E. King Airport,P-N,729382.0,U.S. VIRGIN ISLANDS
+449,"CHRISTIANSTED, ST. CROIX",STX,STX,TISX,Henry E. Rohlsen Airport,P-N,196047.0,U.S. VIRGIN ISLANDS
